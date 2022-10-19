@@ -5,6 +5,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 Try running some of the following tasks:
 
 ```shell
+@openzeppelin/contracts
 npx hardhat run scripts/deploy.js --network goerli
 npx hardhat verify --network goerli {your contract address}
 ```
